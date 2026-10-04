@@ -1,0 +1,4 @@
+bot.db
+.env
+database.py
+my_SQL.session.sql
