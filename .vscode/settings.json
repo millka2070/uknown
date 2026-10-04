@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Telegram_Bot_Develop}/bot.db",
+            "name": "my_SQL"
+        }
+    ]
+}
